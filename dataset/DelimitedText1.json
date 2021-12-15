@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "CHEKURIFAMILY.TXT",
 				"folderPath": "INPUT",
 				"container": "adfcontainer"
 			},
