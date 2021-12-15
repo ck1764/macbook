@@ -1,0 +1,9 @@
+{
+	"name": "GITREPOSITORY",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4cd638f8-da3a-4e22-b18a-2bcf7d4ef95b",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
